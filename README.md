@@ -11,6 +11,10 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 14/12/2025 Changes
+> - Created new sub-group in Misc for Brawler's Pass
+> - Few more missing items from TWW BoEs (Arathi Stuff)
+
 > 05/12/2025 Changes
 > - Added player housing items (Decor, Dye, Pigments)
 > - Added missing patterns & plans
