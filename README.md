@@ -11,6 +11,19 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 23/01/2026 to 28/01/2026 Changes (Midnight)
+> - Merge TWW Groups (Xmog, Materials, etc) to Legacy
+> - Sorted DMF Card & Decks into Expac
+> - Added a few missing legacy battle pets
+> - Adding Midnight Enchants & Kids
+> - Adding Midnight Gems
+> - Adding Midnight Consumables (inc cooking/alchemy)
+> - Adding Midnight Materials
+> - Adding Midnight Patterns & Plans (inc honor vendor)
+> - Adding Midnight Decor (Crafting Profs)
+> - Adding Midnight Professions to groups (Alc/BS/Enc/Eng/Ins/JC/LW/Tailoring)
+> - Adding as much Midnight as I can so stuff is ready to go, yes yes big big
+
 > 14/12/2025 Changes
 > - Created new sub-group in Misc for Brawler's Pass
 > - Few more missing items from TWW BoEs (Arathi Stuff)
