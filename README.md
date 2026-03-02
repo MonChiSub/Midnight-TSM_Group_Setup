@@ -11,6 +11,14 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 02/03/2026 Changes (Midnight V2)
+> - Added all green BoE Items
+> - Removed operation for Midnight green BoEs due to ilvl bug
+> - Added all grey BoE items
+> - Added some consumable items
+> - Added a few midnight patterns & plans that were missed
+> - Added a few DF patterns & plans that were missed
+
 > 23/01/2026 to 28/01/2026 Changes (Midnight)
 > - Merge TWW Groups (Xmog, Materials, etc) to Legacy
 > - Sorted DMF Card & Decks into Expac
