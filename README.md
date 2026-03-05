@@ -11,6 +11,15 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 05/03/2026 Changes
+> - Added BFA Horde items since some of you insist on playing the wrong faction
+> - Added midnight fishing lures
+> - Added midnight fishing epics
+> - Added new fishing group to XMOG > MISC which moved items out of other xmog groups
+> - Added a few missing DF items
+> - Added a few missing consumes
+> - Probs other shiz, added a bit over past 3 days
+
 > 02/03/2026 Changes (Midnight V2)
 > - Added all green BoE Items
 > - Removed operation for Midnight green BoEs due to ilvl bug
@@ -18,6 +27,8 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 > - Added some consumable items
 > - Added a few midnight patterns & plans that were missed
 > - Added a few DF patterns & plans that were missed
+> - Engineering M3DDY is indeed an item and no longer bugged so moving group to consumes from prof craft eng
+> - other stuff go blah blah
 
 > 23/01/2026 to 28/01/2026 Changes (Midnight)
 > - Merge TWW Groups (Xmog, Materials, etc) to Legacy
