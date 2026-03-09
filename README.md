@@ -11,6 +11,14 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 09/03/2026 Changes
+> - Removed profession tool base items
+> - Added uncommon profession tools by item lvl (quality)
+> - Added rare profession tools by item lvl (quality)
+> - Added other missing items
+> - Corrected some items in consumes
+> - Other? idk
+
 > 05/03/2026 Changes
 > - Added BFA Horde items since some of you insist on playing the wrong faction
 > - Added midnight fishing lures
