@@ -11,6 +11,9 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 10/03/2026 Changes
+> - Adding some missing recipes
+
 > 09/03/2026 Changes
 > - Removed profession tool base items
 > - Added uncommon profession tools by item lvl (quality)
