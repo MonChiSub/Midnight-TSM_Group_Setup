@@ -11,6 +11,14 @@ If you need a quick video (No sound) of how to import / setup the TSM from scrat
 
 # Changes to the Setup
 
+> 02/05/2026 Changes
+> - Removing Midnight rares group (All items are BOP)
+> - Added Raid BoEs by ILVL
+> - Added Void Assault cosmetics
+> - Added a few missing grey xmog items to all groups
+> - Added 2 missing unobtainables
+> - Added 3 missing patterns/plans
+
 > 10/03/2026 Changes
 > - Adding some missing recipes
 
